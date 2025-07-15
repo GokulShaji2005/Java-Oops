@@ -1,4 +1,4 @@
-package basics;
+package module_1;
 import java.util.Scanner;
 public class firstNnumbers {
     public static void main(String args[]){

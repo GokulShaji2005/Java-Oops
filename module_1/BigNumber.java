@@ -1,4 +1,4 @@
-package basics;
+package modul1_1;
 import java.util.Scanner;
 public class BigNumber {
     public static void main(String args[]){

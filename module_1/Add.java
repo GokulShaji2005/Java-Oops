@@ -1,4 +1,4 @@
-package basics;
+package module_1;
 
 public class Add {
     public static void main(String args []){
