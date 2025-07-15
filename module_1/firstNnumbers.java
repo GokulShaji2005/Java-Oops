@@ -15,3 +15,8 @@ public class firstNnumbers {
       System.out.println("The sum of first"+" "+limit+" numbers is"+" "+sum);
     }
 }
+
+/*
+ author:Gokul Shaji
+ Date:14/7/2025
+ */
