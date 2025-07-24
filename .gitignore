@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Except .js files
+!*.java
+
+# Also don't ignore .gitignore itself
+!.gitignore
