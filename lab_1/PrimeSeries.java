@@ -1,4 +1,4 @@
-package tutorial_1;
+package lab_1;
 public class PrimeSeries {
         public static void main(String args []){
         int count=0;

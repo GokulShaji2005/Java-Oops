@@ -1,4 +1,4 @@
-package tutorial_1;
+package lab_1;
 import java.util.Scanner;
 public class LeapYear {
     
