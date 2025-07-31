@@ -7,12 +7,12 @@ public class OddAndEven {
         int limit=sc.nextInt();
         int [] numbers=new int[limit];
         int odd=0,even=0;
-
+  System.out.println("The numbers:");
         for(int i=0;i<numbers.length;i++){
             numbers[i]=sc.nextInt();
 
         }
-        System.out.println("The Even numbers:");
+      
       for(int i=0;i<numbers.length;i++){
       if(numbers[i]%2==0){
         even++;
